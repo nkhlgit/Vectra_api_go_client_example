@@ -1,0 +1,6 @@
+{
+    "vec_he": "brain_ip",
+    "vec_api_token": "user_api_token",
+    "max_page_number" : 10,
+    "max_page_size" : 200
+}
