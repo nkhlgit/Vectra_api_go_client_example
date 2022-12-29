@@ -5,4 +5,5 @@ Note: This is not an Vecra offical reposteory.<br />
 
 <br />
 ##Content:<br />
-py_api: api clients using python
+py_api: API clients written in python.
+go_api: API clients written in go.
