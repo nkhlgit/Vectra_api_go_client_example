@@ -1,3 +1,14 @@
+#!/usr/bin/env python
+
+# Author: Nikhil
+# Email: nikhil.eltrx@gmail.com
+# Purpose: Pull hosts data from Vectra brain using API and sve the output json file defined in conf file..
+# Usage: 
+##    - install Python 3
+ ##   - configure get_hosts_conf.json
+ ##   - 
+#Compatiblity_tested: Python3, VEctra Brain: 7.1, API version : 2.2 :
+
 import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 import json
