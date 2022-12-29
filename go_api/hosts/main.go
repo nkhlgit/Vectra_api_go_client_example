@@ -1,3 +1,13 @@
+//
+// Author: Nikhil Singh
+// Email: nikhil.eltrx@gmail.com
+// Purpose: Pull hosts data from Vectra brain using API and sve the output json file defined in conf file..
+// Usage: 
+//   - configure get_hosts_conf.json
+//   - 
+//Compatiblity_tested: Python3, VEctra Brain: 7.1, API version : 2.2 :
+//
+
 package main
 
 import (
