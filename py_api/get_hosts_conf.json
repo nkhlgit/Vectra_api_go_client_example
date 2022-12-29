@@ -1,0 +1,8 @@
+{
+    "vec_he": "<server-ip/FQDN>",
+    "vec_api_token": "<user_api_token>",
+    "max_page_number" : 10,
+    "max_page_size" : 500,
+    "vec_api_version" :  "v2.2",
+    "output_file" : "output.json"
+}
