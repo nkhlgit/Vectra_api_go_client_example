@@ -5,5 +5,5 @@ License: MIT<br />
 <br />
 <h2>Content</h2>
 - go_api: API clients written in go.<br />
-- py_api: API clients written in python.<br />
+
 
